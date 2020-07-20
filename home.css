@@ -1,0 +1,38 @@
+/*
+Author: Bob Rein
+File name: home.css
+Date Created: 1/25/19
+*/
+
+
+#body{
+  background-color: #0a192f;
+  background-repeat: no-repeat;
+  color: #d3dce8;
+  font-family : Courier;
+}
+#myheader{
+    background-image: linear-gradient(170deg, lightblue 0%, #0a192f 55%);
+    height: 500px;
+    width: 100%;
+}
+
+.general-text{
+    font-size: 20px;
+
+}
+.name{
+    color: #fdfdfd;
+    font-family: Verdana;
+    font-size: 60px;
+}
+
+.spacer{
+    height: 150px;
+}
+
+.line {
+    border: 2px solid;
+    border-color: inherit;
+    border-radius: 2px;
+  }
