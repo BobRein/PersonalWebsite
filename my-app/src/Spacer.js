@@ -4,7 +4,7 @@ import './Spacer.css'
 class Spacer extends React.Component {
     render() {
         return (
-            <div class = "spacer" ></div>
+            <div className = "spacer" ></div>
         );
     }
   }

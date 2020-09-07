@@ -1,0 +1,13 @@
+.infoblock {
+    width: 100%;
+    color: #d3dce8;
+    font-family : 'Courier';
+    font-size: 20px;
+    text-align: left;
+  }
+
+  .line {
+    border: 2px solid;
+    border-color: inherit;
+    border-radius: 2px;
+}
