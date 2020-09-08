@@ -3,6 +3,7 @@ import Header from './Header';
 import Spacer from './Spacer';
 import InfoBlock from './InfoBlock';
 import Experience from './Experience';
+import Skills from './Skills';
 
 class App extends React.Component {
   render() {
@@ -10,7 +11,8 @@ class App extends React.Component {
       <div className="App">
         
         <Header/>
-        <Spacer/>
+        <Spacer/>        
+        
         <InfoBlock 
           title = "About me"
           image = "https://i.imgur.com/gayVnOW.jpg"
@@ -20,7 +22,8 @@ class App extends React.Component {
           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
           eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
           sunt in culpa qui officia deserunt "/>
-        <Spacer/> 
+        <Spacer/>
+         
         <InfoBlock 
           title = "Education"
           image = "https://i.imgur.com/iXD1Pug.png"
@@ -30,14 +33,20 @@ class App extends React.Component {
           Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
           eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
           sunt in culpa qui officia deserunt "/>
-        <Spacer/> 
+        <Spacer/>
+         
         <Experience title = "Summer Internships"/>
-        <Spacer/> 
+        <Spacer/>
+        
+        <Skills title = "Technologies and Languages"/>
+        <Spacer/>
+
         <InfoBlock 
           title = "Personal Hobbies"
           image = "https://i.imgur.com/Tv7QXgI.png"
           description = "I love playing with my dog, backpacking, and playing club ultimate frisbee."/>
-        <Spacer/> 
+        <Spacer/>
+         
       </div>
     );
   }

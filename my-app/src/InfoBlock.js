@@ -8,7 +8,6 @@ class InfoBlock extends React.Component {
             <div>
                 <Container>
                     <Row>
-                        
                         <Col xs={12} lg={4}>
                             <img src={this.props.image} width="100%" />
                         </Col>
