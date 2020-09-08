@@ -36,8 +36,7 @@ class App extends React.Component {
         <Spacer/>
          
         <Experience title = "Summer Internships"/>
-        <Spacer/>
-        
+           
         <Skills title = "Technologies and Languages"/>
         <Spacer/>
 
