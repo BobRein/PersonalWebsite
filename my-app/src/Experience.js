@@ -22,6 +22,7 @@ class Experience extends React.Component {
                                 <li>The second thing I did</li>
                                 <li>The third thing I did</li>
                             </ul>
+                            <Spacer/>
                         </Col>
                         <Col xs={12} lg={4}>
                             <img src="https://i.imgur.com/ehI8QDe.png?1" width="100%" />
@@ -33,7 +34,9 @@ class Experience extends React.Component {
                                 <li>The second thing I did</li>
                                 <li>The third thing I did</li>
                             </ul>
+                            <Spacer/>
                         </Col>
+                        
                         <Col xs={12} lg={4}>
                             <img src="https://i.imgur.com/sUgsFXn.png?1" width="100%" />
                             Dallas <span className="float-right">2018</span><br></br>
@@ -44,6 +47,7 @@ class Experience extends React.Component {
                                 <li>The second thing I did</li>
                                 <li>The third thing I did</li>
                             </ul>
+                            <Spacer/>
                         </Col>
                     </Row>
                 </Container>
