@@ -4,6 +4,7 @@ import Spacer from './Spacer';
 import InfoBlock from './InfoBlock';
 import Experience from './Experience';
 import Skills from './Skills';
+import Footer from './Footer';
 
 class App extends React.Component {
   render() {
@@ -44,8 +45,8 @@ class App extends React.Component {
           title = "Personal Hobbies"
           image = "https://i.imgur.com/Tv7QXgI.png"
           description = "I love playing with my dog, backpacking, and playing club ultimate frisbee."/>
-        <Spacer/>
-         
+        <Footer/> 
+        
       </div>
     );
   }
