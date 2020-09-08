@@ -2,9 +2,11 @@ body {
   margin: 0;
   background-color: #0a192f;
   background-repeat: no-repeat;
-  text-align: center;
-  font-family : Courier;
-  font-size: 20px;
+  width: 100%;
+  color: #d3dce8;
+  font-family : 'Courier';
+  font-size: 22px;
+  text-align: left;
   overflow-x: hidden;
   overflow-y: scroll; 
 }

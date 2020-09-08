@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './Header';
 import Spacer from './Spacer';
 import InfoBlock from './InfoBlock';
+import Experience from './Experience';
 
 class App extends React.Component {
   render() {
@@ -30,11 +31,13 @@ class App extends React.Component {
           eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
           sunt in culpa qui officia deserunt "/>
         <Spacer/> 
+        <Experience title = "Summer Internships"/>
+        <Spacer/> 
         <InfoBlock 
           title = "Personal Hobbies"
           image = "https://i.imgur.com/Tv7QXgI.png"
           description = "I love playing with my dog, backpacking, and playing club ultimate frisbee."/>
-          
+        <Spacer/> 
       </div>
     );
   }
