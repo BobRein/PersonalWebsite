@@ -5,40 +5,35 @@ import InfoBlock from './InfoBlock';
 import Experience from './Experience';
 import Skills from './Skills';
 import Footer from './Footer';
+import Contact from './Contact';
 
 class App extends React.Component {
   render() {
       return (
       <div className="App">
         
-        <Header/>
-        <Spacer/>        
-        
+        <Header/>       
+          
+        <Contact></Contact>
+
+        <Spacer/> 
+
         <InfoBlock 
           title = "About me"
           image = "https://i.imgur.com/gayVnOW.jpg"
-          description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-          incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-          nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-          eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-          sunt in culpa qui officia deserunt "/>
+          description = "I have a passion for computer science."/>
         <Spacer/>
-         
+
         <InfoBlock 
           title = "Education"
           image = "https://i.imgur.com/iXD1Pug.png"
-          description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-          incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-          nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-          eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-          sunt in culpa qui officia deserunt "/>
+          description = "In May 2021, I will graduate from Baylor University with a Bachelors Degree
+          in Computer Science. "/>
         <Spacer/>
          
         <Experience title = "Summer Internships"/>
            
-        <Skills title = "Technologies and Languages"/>
+        <Skills title = "Technologies, Skills, and Languages"/>
         <Spacer/>
 
         <InfoBlock 

@@ -1,0 +1,12 @@
+.imageIcon {
+    filter: brightness(0) invert(1);
+    width: 75px;
+    margin: 3%;
+}
+.imageIcon:hover {
+    filter: none;
+}
+.wrapper{
+    text-align: center;
+    margin-top: 50px;
+}
