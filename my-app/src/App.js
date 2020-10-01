@@ -28,7 +28,10 @@ class App extends React.Component {
           title = "Education"
           image = "https://i.imgur.com/iXD1Pug.png"
           description = "In May 2021, I will graduate from Baylor University with a Bachelors Degree
-          in Computer Science. "/>
+          in computer science. I have learned so much from taking 17 computer science classes 
+          including data structures, algorithms, software engineering, networking, operating systems,
+          database design, and cyber security. These classes have also strengthened my collaboration 
+          with 7 group projects."/>
         <Spacer/>
          
         <Experience title = "Summer Internships"/>
