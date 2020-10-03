@@ -18,9 +18,9 @@ class Experience extends React.Component {
                             Software Engineer
                             <Line />
                             <ul>
-                                <li>The first thing I did</li>
-                                <li>The second thing I did</li>
-                                <li>The third thing I did</li>
+                                <li>Developed routing template with React to help enterprise customers quickly automate their contract management workflows</li>
+                                <li>Built .NET API endpoints with C# for scalable process scheduling within contract management</li>
+                                <li>Completely redesigned a deadline chooser component with JavaScript and jQuery</li>
                             </ul>
                             <Spacer/>
                         </Col>
@@ -30,9 +30,9 @@ class Experience extends React.Component {
                             Software Engineer
                             <Line />
                             <ul>
-                                <li>The first thing I did</li>
-                                <li>The second thing I did</li>
-                                <li>The third thing I did</li>
+                                <li>Used Swift to develop a Siri compatible shortcuts system giving users quick access to their frequent actions</li>
+                                <li>Won the intern coding competition with a review response mobile app</li>
+                                <li>Added more extensive logging to the Paycom iOS app</li>
                             </ul>
                             <Spacer/>
                         </Col>
@@ -43,9 +43,9 @@ class Experience extends React.Component {
                             IT
                             <Line />
                             <ul>
-                                <li>The first thing I did</li>
-                                <li>The second thing I did</li>
-                                <li>The third thing I did</li>
+                                <li>Used Splunk search and reporting to securely on-board servers</li>
+                                <li>Built multiple Salesforce community pages using Apex components</li>
+                                <li>Worked with management to form best practices that allowed international teams to share code easily</li>
                             </ul>
                             <Spacer/>
                         </Col>

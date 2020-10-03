@@ -21,7 +21,11 @@ class App extends React.Component {
         <InfoBlock 
           title = "About me"
           image = "https://i.imgur.com/gayVnOW.jpg"
-          description = "I have a passion for computer science."/>
+          description = "I have always had a strong passion for computer science. It started 
+          with robotics teams and transfered to the classroom. From there to personal projects 
+          and industry experience. I love combining my analytical skills
+          and creativity to create useful software to help real people.
+          Please use the LinkedIn or email buttons above contact me with any questions."/>
         <Spacer/>
 
         <InfoBlock 
@@ -42,7 +46,11 @@ class App extends React.Component {
         <InfoBlock 
           title = "Personal Hobbies"
           image = "https://i.imgur.com/Tv7QXgI.png"
-          description = "I love playing with my dog, backpacking, and playing club ultimate frisbee."/>
+          description = "I love playing with my dog, backpacking, and playing club ultimate frisbee. 
+          I have played on the  team for all four years of college. The chemistry required to 
+          beat the other schools we play has instilled in me an appriciation of teamwork.
+          I also enjoy the adventure of backpacking in the mountains and the rigor has taught me
+          to maintain pereseverance."/>
         <Footer/> 
         
       </div>

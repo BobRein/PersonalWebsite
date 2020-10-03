@@ -15,7 +15,7 @@ class Skills extends React.Component {
             { link: "https://i.imgur.com/OzJQsiA.png", name: "MySQL" },
             { link: "https://i.imgur.com/IFEkLrh.png", name: "Swift" },
             { link: "https://i.imgur.com/jB7AcTo.png", name: "UML Diagraming" },
-            { link: "https://i.imgur.com/KWLen2r.png", name: "Angular" },
+            { link: "https://i.imgur.com/UsVUzvM.png", name: "Python" },
             { link: "https://i.imgur.com/ClsjzrR.png", name: "C#" },
             { link: "https://i.imgur.com/Zp7vqfd.png", name: "REST API" },
             { link: "https://i.imgur.com/W0chTHA.png", name: "Cyber Security" },
