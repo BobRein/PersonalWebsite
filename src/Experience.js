@@ -21,6 +21,7 @@ class Experience extends React.Component {
                                 <li>Developed routing template with React to help enterprise customers quickly automate their contract management workflows</li>
                                 <li>Built .NET API endpoints with C# for scalable process scheduling within contract management</li>
                                 <li>Completely redesigned a deadline chooser component with JavaScript and jQuery</li>
+                                <li>Continued to work on the team with a fall internship while in school</li>
                             </ul>
                             <Spacer/>
                         </Col>
