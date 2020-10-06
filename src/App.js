@@ -31,10 +31,10 @@ class App extends React.Component {
         <InfoBlock 
           title = "Education"
           image = "https://i.imgur.com/iXD1Pug.png"
-          description = "In May 2021, I will graduate from Baylor University with a Bachelors Degree
+          description = "In May 2021, I will graduate from Baylor University with a bachelor's degree
           in computer science. I have gained a strong foundation from taking 17 computer science classes 
           including data structures, algorithms, software engineering, networking, operating systems,
-          database design, and cyber security. These classes have also strengthened my collaboration 
+          database design, and cyber security. These classes have also strengthened my collaboration skills 
           with 7 group projects."/>
         <Spacer/>
          
@@ -47,8 +47,8 @@ class App extends React.Component {
           title = "Personal Hobbies"
           image = "https://i.imgur.com/Tv7QXgI.png"
           description = "I love playing with my dog, backpacking, and playing club ultimate frisbee. 
-          I have played on the  team for all four years of college. The team chemistry required to 
-          beat the other schools we play has instilled in me an appreciation of teamwork.
+          I have played on the team all four years of college. The team chemistry required to 
+          beat the other schools we play instilled in me an appreciation of teamwork.
           I also enjoy the adventure of backpacking in the mountains and the rigor has taught me
           to maintain perseverance."/>
         <Footer/> 
